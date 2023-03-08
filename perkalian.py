@@ -1,0 +1,5 @@
+print("selamat datang")
+a = input ("masukan bilangan pertama:")
+b = input ("masukan bilangan kedua:")
+c = int(a) * int(b)
+print("hasil perkalian:" + str(c))
